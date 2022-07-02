@@ -1,0 +1,39 @@
+body {
+    background: rgb(90, 90, 90);
+}
+
+div.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+    width: auto;
+    justify-content: center;
+}
+
+div.stopwatch-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 2%;
+}
+
+div.titles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.button {
+    padding: 8px 18px 8px 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 1em;
+    color: black;
+    background-color: bisque;
+    border-color: bisque;
+    box-shadow: none;
+}

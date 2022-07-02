@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 367f9900120427b40b01e1f5eaf48369686b2b4f unknown <hmadmeister@gmail.com> 1656633240 +0100	commit (initial): first commit
+367f9900120427b40b01e1f5eaf48369686b2b4f 0000000000000000000000000000000000000000 unknown <hmadmeister@gmail.com> 1656633250 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 367f9900120427b40b01e1f5eaf48369686b2b4f unknown <hmadmeister@gmail.com> 1656633250 +0100	Branch: renamed refs/heads/master to refs/heads/main
+367f9900120427b40b01e1f5eaf48369686b2b4f 25586f0e86dc4862e0dd62bab1c897f185cde6f3 unknown <hmadmeister@gmail.com> 1656633641 +0100	commit: adding all the code - second commit
+25586f0e86dc4862e0dd62bab1c897f185cde6f3 be7f1ea7160989cd57f8fc6e4af03ad9f9694286 unknown <hmadmeister@gmail.com> 1656637654 +0100	commit: updating the README file
